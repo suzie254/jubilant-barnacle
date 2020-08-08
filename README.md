@@ -4,7 +4,7 @@
 
 ## Description
 
-Chinchillah's Gallery(Chi_Gallery) is a personal gallery application that displays my photos for other people to see just as one of the way of building social intelligence.! You can visit the live site on ''/
+PHOTOMOTO(jubilan-barnacle) is a personal gallery application that displays my photos for other people to see just as one of the way of building social intelligence.! You can visit the live site on ''/
 
 ### Author
 
