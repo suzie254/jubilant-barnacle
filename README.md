@@ -10,7 +10,7 @@ Chinchillah's Gallery(Chi_Gallery) is a personal gallery application that displa
 
 **Suzie Akinyi**
 
- ** suzieakinyi08@gmail.com
+ **suzieakinyi08@gmail.com**
 
 ### Features
 
@@ -39,8 +39,8 @@ virtual environment
 pip
 Cloning
 In your terminal:
-$ git clone <https://github.com/suzie254/jubilant> barnacle.git
-$ cd Chi_Gallery
+$ git clone <<https://github.com/suzie254/> jubilant> barnacle.git
+$ cd jubilant barnacle
 
 #### Running the Application
 
@@ -60,13 +60,9 @@ $ python3.6 manage.py runserver
 To run the tests for the class file:
 $ python3.6 manage.py test photos
 
-#### CODEBEAT
-
-[![codebeat badge](https://codebeat.co/badges/8dd34843-e158-4631-b105-fcffde89d879)](https://codebeat.co/projects/github-com-antomuli-chi_gallery-master)
-
 ##### Technologies Used
 
-Python3.6Chinchillah's Gallery(Chi_Gallery) is a personal gallery application that displays my photos for other people to see just as one of the way of building social intelligence.! You can visit the live site on **''**
+Python3.6(jubilant barnacle) is a personal gallery application that displays my photos for other people to see just as one of the way of building social intelligence.! 
 
 Django
 HTML
